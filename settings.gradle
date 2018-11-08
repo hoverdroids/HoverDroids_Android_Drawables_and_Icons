@@ -1,1 +1,1 @@
-include ':app', ':material_pink', ':material_red', ':material_orange', ':material_blue', ':material_green', ':material_lime', ':material_teal', ':material_purple', ':material_greyscale', ':material_amber', ':holo_red'
+include ':app', ':material_pink', ':material_red', ':material_orange', ':material_blue', ':material_green', ':material_lime', ':material_teal', ':material_purple', ':material_greyscale', ':material_amber', ':holo_red', ':default', ':default_material', ':hoverdroids', ':media_player', ':hoverdroids_material'
