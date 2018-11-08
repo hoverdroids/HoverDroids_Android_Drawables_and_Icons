@@ -1,1 +1,1 @@
-include ':app', ':pink', ':red', ':orange', ':blue', ':green', ':lime', ':teal', ':purple', ':greyscale', ':amber'
+include ':app', ':material_pink', ':material_red', ':material_orange', ':material_blue', ':material_green', ':material_lime', ':material_teal', ':material_purple', ':material_greyscale', ':material_amber'
