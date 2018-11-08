@@ -1,4 +1,4 @@
-package com.hoverdroids.hoverdroids_material_android_drawables;
+package com.hoverdroids.hoverdroids_android_drawables_and_icons;
 
 import org.junit.Test;
 
