@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selector_pink_normal">@color/material_pink_a700_pct_0</color>
+    <color name="selector_pink_focused">@color/material_pink_a700_pct_13_33</color>
+    <color name="selector_pink_pressed">@color/material_pink_a700_pct_26_66</color>
+</resources>

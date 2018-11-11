@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Selectors -->
+    <color name="selector_white_normal">@color/material_white_pct_0</color>
+    <color name="selector_white_focused">@color/material_white_pct_13_33</color>
+    <color name="selector_white_pressed">@color/material_white_pct_26_66</color>
+
+    <color name="selector_black_normal">@color/material_black_pct_0</color>
+    <color name="selector_black_focused">@color/material_black_pct_13_33</color>
+    <color name="selector_black_pressed">@color/material_black_pct_26_66</color>
+</resources>

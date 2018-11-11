@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selector_light_blue_normal">@color/material_light_blue_a700_pct_0</color>
+    <color name="selector_light_blue_focused">@color/material_light_blue_a700_pct_13_33</color>
+    <color name="selector_light_blue_pressed">@color/material_light_blue_a700_pct_26_66</color>
+</resources>
