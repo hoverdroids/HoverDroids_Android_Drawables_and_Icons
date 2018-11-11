@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="primary_color_dark">#FFFFA500</color>
+    <color name="primary_color_enabled_dark">#CCFFA500</color>
+    <color name="primary_color_disabled_dark">#4DFFA500</color>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="WhiteHoloDark" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/edit_text_dark</item>
+
+    <item name="android:textColorHighlight">#99ffffff</item>
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_dark</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_dark</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_dark</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewWhiteHoloDark</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_dark</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_dark</item>
+
+    <item name="android:buttonStyle">@style/ButtonWhiteHoloDark</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonWhiteHoloDark</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerWhiteHoloDark</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarWhiteHoloDark</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarWhiteHoloDark</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarWhiteHoloDark</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigWhiteHoloDark</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallWhiteHoloDark</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleWhiteHoloDark</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_dark</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_dark</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_dark</item>
+
+  </style>
+
+</resources>

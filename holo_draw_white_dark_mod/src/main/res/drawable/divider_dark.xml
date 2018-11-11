@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/divider_bg_dark"
+        android:left="@dimen/divider_margin_dark"
+        android:right="@dimen/divider_margin_dark"/>
+
+</layer-list>

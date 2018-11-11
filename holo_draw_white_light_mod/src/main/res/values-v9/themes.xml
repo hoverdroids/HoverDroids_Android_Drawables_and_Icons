@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="WhiteHoloLight" parent="@style/_WhiteHoloLight">
+
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_light</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_light</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_light</item>
+
+  </style>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 
+  <style name="GreenHololight" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/edit_text_light</item>
+
+    <item name="android:textColorHighlight">#9999cc00</item>
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_light</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_light</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_light</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewGreenHololight</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonGreenHololight</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonGreenHololight</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerGreenHololight</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarGreenHololight</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarGreenHololight</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarGreenHololight</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigGreenHololight</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallGreenHololight</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleGreenHololight</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_light</item>
+
+  </style>
+ -->
+</resources>

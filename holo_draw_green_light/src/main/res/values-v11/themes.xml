@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="GreenHoloLight" parent="@style/_GreenHoloLight"/>
+
+  <style name="_GreenHoloLight" parent="android:Theme.Holo.Light">
+
+    <item name="android:editTextBackground">@drawable/edit_text_light</item>
+
+    <item name="android:textColorHighlight">#9999cc00</item>
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_light</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_light</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_light</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewGreenHoloLight</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonGreenHoloLight</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonGreenHoloLight</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerGreenHoloLight</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarGreenHoloLight</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarGreenHoloLight</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarGreenHoloLight</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigGreenHoloLight</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallGreenHoloLight</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleGreenHoloLight</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_default_light</item>
+
+  </style>
+
+</resources>

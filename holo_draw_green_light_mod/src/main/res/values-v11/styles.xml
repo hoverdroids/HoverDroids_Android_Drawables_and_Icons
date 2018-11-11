@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="AutoCompleteTextViewGreenHololight" parent="android:Widget.Holo.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/list_selector_light</item>
+	    <item name="android:background">@drawable/edit_text_light</item>
+  </style>
+
+  <style name="ButtonGreenHololight" parent="android:Widget.Holo.Button">
+	  <item name="android:background">@drawable/btn_default_light</item>
+  </style>
+
+  <style name="ImageButtonGreenHololight" parent="android:Widget.Holo.ImageButton">
+	  <item name="android:background">@drawable/btn_default_light</item>
+  </style>
+
+  <style name="SpinnerGreenHololight" parent="android:Widget.Holo.Spinner">
+      <item name="android:background">@drawable/spinner_background_light</item>
+      <item name="android:dropDownSelector">@drawable/list_selector_light</item>
+  </style>
+
+  <style name="ProgressBarGreenHololight" parent="android:Widget.Holo.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/progress_horizontal_light</item>
+      <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_light</item>
+  </style>
+
+  <style name="SeekBarGreenHololight" parent="android:Widget.Holo.SeekBar">
+      <item name="android:progressDrawable">@drawable/scrubber_progress_horizontal_light</item>
+      <item name="android:indeterminateDrawable">@drawable/scrubber_progress_horizontal_light</item>
+      <item name="android:thumb">@drawable/scrubber_control_selector_light</item>
+  </style>
+
+  <style name="RatingBarGreenHololight" parent="android:Widget.Holo.RatingBar">
+      <item name="android:progressDrawable">@drawable/ratingbar_full_light</item>
+      <item name="android:indeterminateDrawable">@drawable/ratingbar_full_light</item>
+  </style>
+
+  <style name="RatingBarBigGreenHololight" parent="android:Widget.Holo.RatingBar.Indicator">
+      <item name="android:progressDrawable">@drawable/ratingbar_light</item>
+      <item name="android:indeterminateDrawable">@drawable/ratingbar_light</item>
+  </style>
+
+  <style name="RatingBarSmallGreenHololight" parent="android:Widget.Holo.RatingBar.Small">
+      <item name="android:progressDrawable">@drawable/ratingbar_small_light</item>
+      <item name="android:indeterminateDrawable">@drawable/ratingbar_small_light</item>
+  </style>
+
+  <style name="ToggleGreenHololight" parent="android:Widget.Holo.Button.Toggle">
+      <item name="android:background">@drawable/btn_toggle_light</item>
+  </style>
+
+</resources>

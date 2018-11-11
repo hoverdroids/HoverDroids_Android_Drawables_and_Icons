@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="DarkBrownHoloDark" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/edit_text_dark</item>
+
+    <item name="android:textColorHighlight">#997f3f00</item>
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_dark</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_dark</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_dark</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewDarkBrownHoloDark</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_dark</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_dark</item>
+
+    <item name="android:buttonStyle">@style/ButtonDarkBrownHoloDark</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonDarkBrownHoloDark</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerDarkBrownHoloDark</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarDarkBrownHoloDark</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarDarkBrownHoloDark</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarDarkBrownHoloDark</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigDarkBrownHoloDark</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallDarkBrownHoloDark</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleDarkBrownHoloDark</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_dark</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_dark</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_dark</item>
+
+  </style>
+
+</resources>

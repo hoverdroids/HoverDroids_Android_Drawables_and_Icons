@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- This is commented out because I want to retain this information but have no
+need to add actionbarsherlock as a library reference -->
+<!--   <style name="DarkBrownHoloLight" parent="@style/_DarkBrownHoloLight"/>
+
+  <style name="_DarkBrownHoloLight" parent="Theme.Sherlock.Light">
+
+    <item name="android:editTextStyle">@style/EditTextDarkBrownHoloLight</item>
+
+    <item name="android:textColorHighlight">#997f3f00</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewDarkBrownHoloLight</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxDarkBrownHoloLight</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonDarkBrownHoloLight</item>
+
+    <item name="android:buttonStyle">@style/ButtonDarkBrownHoloLight</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonDarkBrownHoloLight</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerDarkBrownHoloLight</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemDarkBrownHoloLight</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarDarkBrownHoloLight</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarDarkBrownHoloLight</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarDarkBrownHoloLight</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigDarkBrownHoloLight</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallDarkBrownHoloLight</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleDarkBrownHoloLight</item>
+
+    <item name="android:listViewStyle">@style/ListViewDarkBrownHoloLight</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewDarkBrownHoloLight.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemDarkBrownHoloLight</item>
+
+  </style> -->
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- This is commented out because I want to retain this information but have no
+need to add actionbarsherlock as a library reference -->
+<!--   <style name="OrangeHoloDark" parent="Theme.Sherlock">
+
+    <item name="android:editTextStyle">@style/EditTextOrangeHoloDark</item>
+
+    <item name="android:textColorHighlight">#99ff8800</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewOrangeHoloDark</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxOrangeHoloDark</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonOrangeHoloDark</item>
+
+    <item name="android:buttonStyle">@style/ButtonOrangeHoloDark</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonOrangeHoloDark</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerOrangeHoloDark</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemOrangeHoloDark</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarOrangeHoloDark</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallOrangeHoloDark</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleOrangeHoloDark</item>
+
+    <item name="android:listViewStyle">@style/ListViewOrangeHoloDark</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewOrangeHoloDark.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemOrangeHoloDark</item>
+
+  </style> -->
+
+</resources>

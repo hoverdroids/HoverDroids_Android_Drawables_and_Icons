@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="OrangeHoloDark" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/edit_text_dark</item>
+
+    <item name="android:textColorHighlight">#99ff8800</item>
+    <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_dark</item>
+    <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_dark</item>
+    <item name="android:textSelectHandle">@drawable/text_select_handle_middle_dark</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewOrangeHoloDark</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_dark</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_dark</item>
+
+    <item name="android:buttonStyle">@style/ButtonOrangeHoloDark</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonOrangeHoloDark</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerOrangeHoloDark</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarOrangeHoloDark</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigOrangeHoloDark</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallOrangeHoloDark</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleOrangeHoloDark</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_dark</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_dark</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_dark</item>
+
+  </style>
+
+</resources>
