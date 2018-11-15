@@ -1,4 +1,4 @@
-package com.hoverdroids.greyscale;
+package com.hoverdroids.material_draw_bluegray;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hoverdroids.greyscale.test", appContext.getPackageName());
+        assertEquals("com.hoverdroids.material_draw_bluegray.test", appContext.getPackageName());
     }
 }

@@ -8,4 +8,8 @@
     <color name="selector_black_normal">@color/material_black_pct_0</color>
     <color name="selector_black_focused">@color/material_black_pct_13_33</color>
     <color name="selector_black_pressed">@color/material_black_pct_26_66</color>
+
+    <color name="selector_gray_normal">@color/material_gray_pct_0</color>
+    <color name="selector_gray_focused">@color/material_gray_pct_13_33</color>
+    <color name="selector_gray_pressed">@color/material_gray_pct_26_66</color>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selector_bluegray_normal">@color/material_bluegray_pct_0</color>
+    <color name="selector_bluegray_focused">@color/material_bluegray_pct_13_33</color>
+    <color name="selector_bluegray_pressed">@color/material_bluegray_pct_26_66</color>
+</resources>
